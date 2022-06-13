@@ -1,0 +1,15 @@
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\bin\Debug\net6.0\ArrayListClass.exe
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\bin\Debug\net6.0\ArrayListClass.deps.json
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\bin\Debug\net6.0\ArrayListClass.runtimeconfig.json
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\bin\Debug\net6.0\ArrayListClass.dll
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\bin\Debug\net6.0\ArrayListClass.pdb
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ArrayListClass.csproj.AssemblyReference.cache
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ArrayListClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ArrayListClass.AssemblyInfoInputs.cache
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ArrayListClass.AssemblyInfo.cs
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ArrayListClass.csproj.CoreCompileInputs.cache
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ArrayListClass.dll
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\refint\ArrayListClass.dll
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ArrayListClass.pdb
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ArrayListClass.genruntimeconfig.cache
+C:\Users\ahhac\source\repos\ArrayListClass\ArrayListClass\obj\Debug\net6.0\ref\ArrayListClass.dll
