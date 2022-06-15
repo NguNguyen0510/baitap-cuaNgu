@@ -1,0 +1,5 @@
+C:\Users\ahhac\source\repos\lab5._1\lab5._1\obj\Debug\net6.0\lab5._1.csproj.AssemblyReference.cache
+C:\Users\ahhac\source\repos\lab5._1\lab5._1\obj\Debug\net6.0\lab5._1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahhac\source\repos\lab5._1\lab5._1\obj\Debug\net6.0\lab5._1.AssemblyInfoInputs.cache
+C:\Users\ahhac\source\repos\lab5._1\lab5._1\obj\Debug\net6.0\lab5._1.AssemblyInfo.cs
+C:\Users\ahhac\source\repos\lab5._1\lab5._1\obj\Debug\net6.0\lab5._1.csproj.CoreCompileInputs.cache
